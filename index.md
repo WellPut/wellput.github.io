@@ -9,7 +9,7 @@ title: Home
 **WellPut**: a tool for matching generic extensions of the SM onto the Weak Effective Lagrangian
 =========
 
-The `Mathematica` package is available from: []()
+The `Mathematica` package is available from: [https://github.com/WellPut/wellput](https://github.com/WellPut/wellput)
 
 -----
 
