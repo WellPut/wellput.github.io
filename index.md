@@ -17,5 +17,5 @@ The `Mathematica` package is available from: [https://github.com/WellPut/wellput
 
 ## Citation
 If you use `WellPut` please cite
-*   [2104.XXXXX](https://inspirehep.net/record/XXXXXXX): Generic One-Loop Matching Conditions for Rare Meson Decays;
+*   [2104.10930](https://inspirehep.net/literature/1859934): Generic One-Loop Matching Conditions for Rare Meson Decays;
 Bishara, Brod, Gorbahn, and Moldanazarova
